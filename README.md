@@ -1,4 +1,4 @@
-# Scaleway k8s cluster
+# GitLab Group
 
 Useful links:
 
